@@ -1,5 +1,4 @@
 # Input denominations
-denominations = [1, 2, 5, 10, 20, 50]
 one_notes = 1
 two_notes = 2
 five_notes = 5
